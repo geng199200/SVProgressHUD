@@ -1,4 +1,3 @@
-# SVProgressHUD
 
 ![Pod Version](https://img.shields.io/cocoapods/v/SVProgressHUD.svg?style=flat)
 ![Pod License](https://img.shields.io/cocoapods/l/SVProgressHUD.svg?style=flat)
